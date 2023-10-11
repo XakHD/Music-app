@@ -13,7 +13,7 @@ import Player from './liked/components/Player'
 const font = Figtree({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Spotify Clone',
+  title: 'Mp3 App',
   description: 'Listen to the music!',
 };
 
